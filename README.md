@@ -33,7 +33,6 @@ This project demonstrates federated learning on the MNIST dataset using:
 ```bash
 git clone https://github.com/yourusername/federated-mnist.git
 cd federated-mnist
-pip install -r requirements.txt
 
 ## Run with 3 clients for 5 rounds:
 python federated_mnist.py --num-clients 3 --rounds 5
