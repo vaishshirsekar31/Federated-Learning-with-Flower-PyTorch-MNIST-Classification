@@ -1,8 +1,6 @@
 # Federated-Learning-with-Flower-PyTorch-MNIST-Classification
 This project demonstrates federated learning (FL) on the MNIST dataset using the Flower framework and PyTorch. It enables collaborative model training across multiple clients without sharing raw data, preserving privacy while achieving high accuracy.
 
-# Federated Learning with Flower & PyTorch: MNIST Classification
-
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)
 ![Flower](https://img.shields.io/badge/Flower-1.0%2B-green)
